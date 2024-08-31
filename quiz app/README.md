@@ -16,7 +16,7 @@ Anime Quiz App is an interactive quiz application where users can test their kno
 
 You can view the deployed Anime Quiz App at the following link:
 
-[[Anime Quiz App](https://roaring-liger-a2d274.netlify.app) <!-- Replace with your actual deployed site URL -->]
+(https://roaring-liger-a2d274.netlify.app) <!-- Replace with your actual deployed site URL -->]
 
 ## Preview
 
