@@ -16,7 +16,7 @@ Anime Quiz App is an interactive quiz application where users can test their kno
 
 You can view the deployed Anime Quiz App at the following link:
 
-(https://roaring-liger-a2d274.netlify.app) <!-- Replace with your actual deployed site URL -->]
+https://roaring-liger-a2d274.netlify.app
 
 ## Preview
 
@@ -24,49 +24,4 @@ You can view the deployed Anime Quiz App at the following link:
 <!-- Replace with your actual preview image URL -->
 
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the Repository**:
-
-    ```bash
-    git clone https://github.com/yourusername/anime-quiz-app.git
-    ```
-
-2. **Navigate to the Project Directory**:
-
-    ```bash
-    cd anime-quiz-app
-    ```
-
-3. **Open the `index.html` File**:
-
-    You can open the `index.html` file in your web browser to view and interact with the app.
-
-## Usage
-
-1. **Start the Quiz**: Open the `index.html` file in a web browser.
-2. **Answer the Questions**: Select an answer for each question and click the "Next" button to proceed.
-3. **View Your Score**: After completing the quiz, your final score will be displayed.
-
-## Contributing
-
-If you would like to contribute to the development of the Anime Quiz App, please follow these guidelines:
-
-1. **Fork the Repository**.
-2. **Create a New Branch**: `git checkout -b feature/your-feature-name`
-3. **Make Your Changes**.
-4. **Commit Your Changes**: `git commit -am 'Add new feature'`
-5. **Push to the Branch**: `git push origin feature/your-feature-name`
-6. **Create a New Pull Request**.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **OpenAI** for providing the guidance and support.
-- **Anime** for being an awesome source of inspiration!
 
